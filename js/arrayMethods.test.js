@@ -1,4 +1,4 @@
-import { arrayLength, arrayPush, arrayPop, arrayMap } from './arrayMethods.js';
+import { arrayLength, arrayPush, arrayPop } from './arrayMethods.js';
 
 describe('Given arrayLength function', () => {
     const arrData = [3, 4, 5, 6];
